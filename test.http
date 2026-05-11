@@ -1,0 +1,10 @@
+POST http://localhost:8080/applications
+Content-Type: application/json
+
+{
+  "company": "Google",
+  "role": "Software Engineering Intern",
+  "status": "Applied",
+  "location": "Montreal",
+  "dateApplied": "2026-05-11"
+}
