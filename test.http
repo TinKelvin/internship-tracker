@@ -8,3 +8,11 @@ Content-Type: application/json
   "location": "Montreal",
   "dateApplied": "2026-05-11"
 }
+
+###
+
+GET http://localhost:8080/applications/7
+
+###
+
+DELETE http://localhost:8080/applications/6
